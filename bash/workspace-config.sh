@@ -8,7 +8,7 @@
 #
 # CONFIGURATION — edit these to match your setup
 # ─────────────────────────────────────────────────────────────────────────────
-MONITOR_NAME="LG ULTRAGEAR"   # Partial name match (case-insensitive)
+MONITOR_NAME="DELL S3425DW"   # Partial name match (case-insensitive)
 INPUT_USBC=27                 # DDC input code for USB-C (your laptop)
 INPUT_HDMI1=17                # DDC input code for HDMI 1 (your desktop)
 SWITCH_DELAY=2                # Seconds to wait between steps
